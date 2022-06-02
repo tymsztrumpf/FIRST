@@ -1,1 +1,1 @@
-.gitignore
+.gitignore/bin/*.tmp *.temp
